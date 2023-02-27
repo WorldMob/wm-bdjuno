@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	cosmossdk.io/math v1.0.0-beta.3
-	github.com/cosmos/cosmos-sdk v0.46.10
+	github.com/cosmos/cosmos-sdk v0.46.7
 	github.com/forbole/juno/v4 v4.1.0
 	github.com/go-co-op/gocron v1.18.0
 	github.com/gogo/protobuf v1.3.3
@@ -114,7 +114,7 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/mtibben/percent v0.2.1 // indirect
 	github.com/onsi/ginkgo v1.16.4 // indirect
-	github.com/onsi/gomega v1.18.1 // indirect
+	github.com/onsi/gomega v1.20.0 // indirect
 	github.com/pelletier/go-toml/v2 v2.0.5 // indirect
 	github.com/petermattis/goid v0.0.0-20180202154549-b0b1615b78e5 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
